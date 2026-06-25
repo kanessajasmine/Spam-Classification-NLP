@@ -40,14 +40,11 @@ Model performance is evaluated using:
 - F1-Score
 
 ## 📷 Results
-- Label Distribution
-![Label Distribution](images/label_distribution.png)
+- Label Distribution ![Label Distribution](images/label_distribution.png)
 
-- Spam WordCloud
-![Spam WordCloud](images/spam_wordcloud.png)
+- Spam WordCloud ![Spam WordCloud](images/spam_wordcloud.png)
 
-- Non-Spam WordCloud
-![Non-Spam WordCloud](images/nonspam_wordcloud.png)
+- Non-Spam WordCloud ![Non-Spam WordCloud](images/nonspam_wordcloud.png)
 
 - Classification Report
 ## 📈 Model Performance

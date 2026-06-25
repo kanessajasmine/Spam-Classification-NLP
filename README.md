@@ -74,12 +74,7 @@ The Logistic Regression model achieved excellent performance on the test dataset
 |----------|-------------|
 | "Sayng belikan aku pulsa di nmr ini 085212345678 nanti aq tlpn qmu balik, aq pke hp tmn" | Spam |
 | "Besok kita masuk kuliah jam 07:30 di gedung A." | Non-Spam |
-| """TUTUP CC & KTA ANDA, KAMI BANTU DNGN 2 SOLUSI:
-             1. CICIL TETAP BUNGA 2%
-             2. DISC PELUNASAN 30% S/D 60%
-             CLEAR BI & LEGAL
-             INFO :
-             TELP/WA : SARI 085212345678""" | Spam |
+| """TUTUP CC & KTA ANDA, KAMI BANTU DNGN 2 SOLUSI: 1. CICIL TETAP BUNGA 2% 2. DISC PELUNASAN 30% S/D 60% CLEAR BI & LEGAL INFO : TELP/WA : SARI 085212345678""" | Spam |
 
 ## 🔮 Future Improvements
 - Compare multiple machine learning algorithms (Naive Bayes, SVM, Random Forest).

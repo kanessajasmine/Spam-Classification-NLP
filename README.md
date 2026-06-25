@@ -32,21 +32,30 @@ This project develops an Indonesian spam message classification model using Natu
 **Hyperparameter Optimization**
 - GridSearchCV
 
-## 📈 Model Evaluation
-Model performance is evaluated using:
-- Classification Report
-- Precision
-- Recall
-- F1-Score
-
 ## 📷 Results
-- Label Distribution ![Label Distribution](images/label_distribution.png)
+## 📊 Exploratory Data Analysis
+### Label Distribution
+Shows the distribution of spam and non-spam messages in the dataset.
 
-- Spam WordCloud ![Spam WordCloud](images/spam_wordcloud.png)
+<p align="center">
+  <img src="images/label_distribution.png" width="500">
+</p>
+---
 
-- Non-Spam WordCloud ![Non-Spam WordCloud](images/nonspam_wordcloud.png)
+### Spam WordCloud
+The most frequent words appearing in spam messages.
+<p align="center">
+  <img src="images/wordcloud_spam.png" width="600">
+</p>
+---
 
-- Classification Report
+### Non-Spam WordCloud
+The most frequent words appearing in non-spam messages.
+<p align="center">
+  <img src="images/wordcloud_nonspam.png" width="600">
+</p>
+---
+
 ## 📈 Model Performance
 The Logistic Regression model achieved excellent performance on the test dataset.
 | Metric | Non-Spam | Spam |

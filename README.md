@@ -45,14 +45,14 @@ Shows the distribution of spam and non-spam messages in the dataset.
 ### Spam WordCloud
 The most frequent words appearing in spam messages.
 <p align="center">
-  <img src="images/wordcloud_spam.png" width="600">
+  <img src="images/spam_wordcloud.png" width="600">
 </p>
 ---
 
 ### Non-Spam WordCloud
 The most frequent words appearing in non-spam messages.
 <p align="center">
-  <img src="images/wordcloud_nonspam.png" width="600">
+  <img src="images/nonspam_wordcloud.png" width="600">
 </p>
 ---
 

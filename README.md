@@ -40,15 +40,15 @@ Model performance is evaluated using:
 - F1-Score
 
 ## 📷 Results
-![Label Distribution](images/label_distribution.png)
 - Label Distribution
+![Label Distribution](images/label_distribution.png)
 
-![Spam WordCloud](images/spam_wordcloud.png)
 - Spam WordCloud
-  
-![Non-Spam WordCloud](images/nonspam_wordcloud.png)
+![Spam WordCloud](images/spam_wordcloud.png)
+
 - Non-Spam WordCloud
-  
+![Non-Spam WordCloud](images/nonspam_wordcloud.png)
+
 - Classification Report
 ## 📈 Model Performance
 The Logistic Regression model achieved excellent performance on the test dataset.
